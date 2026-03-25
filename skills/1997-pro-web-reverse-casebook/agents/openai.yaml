@@ -1,0 +1,4 @@
+interface:
+  display_name: "1997.pro 逆向案例库"
+  short_description: "1997.pro Web/JS 逆向案例路由与方法库"
+  default_prompt: "Use $1997-pro-web-reverse-casebook to map this reverse task to the closest 1997.pro case family and choose the right next skill."
