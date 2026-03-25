@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web JS Reverse Flow"
+  short_description: "复杂网站 JS 逆向总控与三 MCP 协同"
+  default_prompt: "Use $web-js-reverse-master-flow to choose and execute the next stage of this complex Web/JS reverse task."
