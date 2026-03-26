@@ -9,8 +9,8 @@
   - 默认按 `jshook + js-reverse + chrome-devtools-mcp` 三 MCP 协同
   - 内置 `Anti-Spiral Protocol`、困难站点升级梯子、阶段切换纪律
 - `skills/1997-pro-web-reverse-casebook`
-  - 基于 `1997.pro` 公开文章体系提炼的专门站点 / 技术案例库
-  - 用于 `Akamai / Kasada / PX / reese84 / 同盾 / a_bogus / 腾讯滑块 / 阿里滑块 / JSVMP / 227 / 226 / wasm / protobuf / rid / fuid / fs / bx-pp / run_js / storage.estimate / animationend` 等案例线索的预路由与起刀建议
+  - 基于 `热门站点` 提炼的专门技术案例库
+  - 用于 `Akamai / Kasada / PX / reese84 / 同盾 / a_bogus / 腾讯滑块 / 阿里滑块 / JSVMP / wasm / protobuf / fs / bx-pp / animationend` 等案例线索的预路由与起刀建议
 
 ## 安装
 
@@ -51,5 +51,5 @@ skills/
 
 ## 说明
 
-- `1997-pro-web-reverse-casebook` 中的案例提炼基于公开可访问文章进行总结与结构化，不包含站点私有内容。
+- `1997-pro-web-reverse-casebook` 不包含站点私有内容。
 - 这些 skill 偏向研究、调试与方法路由，不保证适配所有目标，也不替代真实证据采集。
